@@ -1,0 +1,11 @@
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+#incidentTable{
+  width: 100%;
+}
+
+#incidentTable > thead > tr> th {
+  text-align: left;
+}
