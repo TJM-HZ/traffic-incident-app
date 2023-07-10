@@ -2,10 +2,10 @@
 A simple traffic incident app created for an internship assignment.
 In order for this app to work, [anwb-proxy](https://github.com/TJM-HZ/anwb-proxy) must also be set up.
 
-##Installation
-After cloning the repository, make sure to install dependencies using `npm install`
+## Installation
+After cloning the repository, `cd` into the traffic-incident-app directory and make sure to install dependencies using `npm install`
 
-##Usage
+## Usage
 Before continuing, make sure you've also set up [anwb-proxy](https://github.com/TJM-HZ/anwb-proxy).
 In script.js, make sure to change incidentUrl to the Url [anwb-proxy](https://github.com/TJM-HZ/anwb-proxy) is hosted at (by default localhost:3000).
 Afterwards, simply host the webpage. A simple method of doing this in Microsoft Visual Studio Code is via the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
